@@ -9,7 +9,9 @@ int main()
     std::cout << "Hello Worlddqsdqs                       dfsdsq!\n";
      std::cout << "Hello HELLO WORD!\n";
 
-
+    
+    /*std::cout << "Hello Worlddqsdqsdsqzfsdsddddddddddfdsfdfdsfsdfsdsq!\n";
+     std::cout << "Hello WorlddqsdqsHELLO WORDdsqdsq!\n";*/
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
