@@ -6,8 +6,10 @@
 int main()
 {
     std::cout << "Hello Worlddqsdqsdsqdsq!\n";
-    std::cout << "Hello Worlddqsdqsdsqzfsdsddddddddddfdsfdfdsfsdfsdsq!\n";
-     std::cout << "Hello Worlddqsdqsdsqdsq!\n";
+    std::cout << "Hello Worlddqsdqs                       dfsdsq!\n";
+     std::cout << "Hello HELLO WORD!\n";
+
+
 }
 
 // Exécuter le programme : Ctrl+F5 ou menu Déboguer > Exécuter sans débogage
